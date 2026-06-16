@@ -380,6 +380,6 @@ table td:first-child {
 }
 
 .error {
-	/* color: #FF8080; */
-	/* font-size: 9px; */
+	color: #FF8080;
+	font-size: 9px;
 }
